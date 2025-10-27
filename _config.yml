@@ -1,0 +1,9 @@
+# SITE CONFIGURATION
+title: Jana Pavlikova Lab
+description: Research, Publications, and People
+baseurl: "/JanaPavlikovaLab" # The subpath of your site, e.g. /blog
+url: "https://chemistry-mike.github.io" # The base hostname & protocol for your site
+
+# JEKYLL THEME CONFIGURATION
+# Choose a supported theme, e.g., jekyll-theme-minimal or jekyll-theme-cayman
+theme: jekyll-theme-minimal
